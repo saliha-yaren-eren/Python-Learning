@@ -1,0 +1,2 @@
+Halilin toplam meyve sayisi: 42
+Velinin toplam meyve sayisi: 39
